@@ -26,7 +26,7 @@ Finally, run the command: "pnpm run dev" to start your web.
 
 ## Repository Front-End
 
-- https://github.com/giovanneluna/upload-ai-web
+- https://github.com/giovanneluna/upload-ai-api
 
 ##
 
