@@ -1,4 +1,4 @@
-# Transactions
+# Upload IA
 
 This project reads audios/videos and executes prompts using artificial intelligence, where it generates a title of a video or a description (until the brief moment).
 The language recognized by AI in the project is Portuguese.
